@@ -38,7 +38,7 @@ Open a separate terminal for each component:
 5. 💧 `pump_relay.py`  
    Manages pump state based on water level and commands.
 
-6. 🐟 `feeder_button.py`
+6. 🐟 `feeder_button.py`  
    Click to send “feed” event to the system.
 
 7. 🖥️ `aquarium_gui.py`  
@@ -52,6 +52,7 @@ Install all requirements:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ---
 
@@ -59,6 +60,5 @@ pip install -r requirements.txt
 
 Built as part of an IoT course.
 
-**Owners**: Or Dorbin & Karina Haimov
-Thank You!
-
+**Owners**: Or Dorbin & Karina Haimov  
+**Thank You!**
