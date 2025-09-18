@@ -283,17 +283,6 @@ for row in conn.execute("SELECT * FROM logs ORDER BY timestamp DESC LIMIT 20"):
 
 ---
 
-## 🗺️ Roadmap
-
-- Web dashboard (Streamlit/Flask) that tails SQLite in near‑real‑time.
-
-- Persist configurable thresholds (YAML/JSON).
-
-- Private MQTT with TLS/auth.
-
-- Docker Compose for the full stack.
-
----
 
 ## 👩🏻‍💻 Credits
 
